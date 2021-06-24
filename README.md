@@ -5,7 +5,7 @@ Bootstrap test project for Glossy.
 
 ## Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [SASS](https://sass-lang.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Requirements
