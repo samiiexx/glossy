@@ -13,7 +13,7 @@ Bootstrap test project for Glossy.
 
 ## Install
 ```
-    $ git clone git@github.com:starboxtech/sam-glossy.git main
+    $ git clone git@github.com:starboxtech/glossy.git main
     $ cd main
 ```
 
